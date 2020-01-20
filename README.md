@@ -1,5 +1,5 @@
 # Extra-fresh
-A Freshdesk extra functionality script. Due to Freshdesk implementation pecualarities, the script has to run every 5 second.
+A Freshdesk extra functionality script. Due to Freshdesk implementation peculiarities, the script has to run every 5 second.
 
 ###### Extra-compatible
 * Mozilla Firefox 70.0
